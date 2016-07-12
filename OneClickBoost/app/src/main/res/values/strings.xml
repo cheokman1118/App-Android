@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OneClickBoost</string>
+    <string name="toastText" formatted="false">Terminated: %d\nAvailable Memory Before Speeding: %dKB\nAvailable Memory After Speeding: %dKB\nMemory Released: %dKB\nProcess Terminating Priority Threshold: %d</string>
+</resources>
